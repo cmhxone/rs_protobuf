@@ -14,6 +14,11 @@ $ brew install protobuf
 ```
 $ apt install protobuf-compiler
 ```
+
+### Rocky
+```
+$ dnf install protobuf-compiler
+```
 ---
 
 ## build
