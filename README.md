@@ -19,6 +19,9 @@ $ apt install protobuf-compiler
 ```
 $ dnf install protobuf-compiler
 ```
+
+### Windows
+[protobuf github](https://github.com/protocolbuffers/protobuf/releases)
 ---
 
 ## build
